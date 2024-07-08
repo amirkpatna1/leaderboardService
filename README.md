@@ -1,3 +1,6 @@
+### Link to Game service : 
+https://github.com/amirkpatna1/gameService
+
 # Leaderboard Service
 
 ## Overview
