@@ -1,6 +1,11 @@
 ### Link to Game service : 
 https://github.com/amirkpatna1/gameService
 
+# HLD
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/0abfe9b4-6cab-48fa-b647-21bc5bad7f91">
+
+
 # Leaderboard Service
 
 ## Overview
